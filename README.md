@@ -1,2 +1,2 @@
 # Demo
-Learning repo
+Learning repository
